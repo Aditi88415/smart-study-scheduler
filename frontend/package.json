@@ -1,0 +1,10 @@
+{
+  "name": "tailwind-frontend",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "tailwindcss -i ./tailwind.css -o ./output.css --watch"
+  },
+  "devDependencies": {
+    "tailwindcss": "^3.4.0"
+  }
+}
